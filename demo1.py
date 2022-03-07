@@ -1,0 +1,7 @@
+print("hello\nworld")
+print("1234\t1234")
+print("123\t1234\t12345")
+print("hello\rworld12")
+print("hello\bworld")
+print("\\\\world")
+print(r'\nhello')
